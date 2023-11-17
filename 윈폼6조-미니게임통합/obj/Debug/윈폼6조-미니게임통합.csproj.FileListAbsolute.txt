@@ -1,0 +1,11 @@
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\bin\Debug\윈폼6조-미니게임통합.exe.config
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\bin\Debug\윈폼6조-미니게임통합.exe
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\bin\Debug\윈폼6조-미니게임통합.pdb
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조-미니게임통합.csproj.AssemblyReference.cache
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조_미니게임통합.Form1.resources
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조_미니게임통합.Properties.Resources.resources
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조-미니게임통합.csproj.GenerateResource.cache
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조-미니게임통합.csproj.CoreCompileInputs.cache
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조-미니게임통합.exe
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조-미니게임통합.pdb
+C:\Users\김동현\source\repos\윈폼6조-미니게임통합\윈폼6조-미니게임통합\obj\Debug\윈폼6조_미니게임통합.Chrome.resources
